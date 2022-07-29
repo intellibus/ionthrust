@@ -25,6 +25,7 @@
 
 - Create Chrome Extensions with Svelte `Planned`
 - Unified State Management via `fysics` `Planned`
+- Annotate Functions as Background or Content-Script `Planned`
 - Automatic Code Splitting between Background & Content Scripts `Planned`
 - Typescript Support `Planned`
 
