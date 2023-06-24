@@ -1,7 +1,7 @@
 {
   "type": "module",
   "name": "ionthrust",
-  "version": "1.0.181",
+  "version": "1.0.182",
   "description": "Framework For Chromium-Based Browser Extensions",
   "author": "Intellibus Labs <labs@intellibus.com> (https://intellibus.dev/)",
   "license": "MIT",
